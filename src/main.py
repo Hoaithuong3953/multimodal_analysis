@@ -1,0 +1,5 @@
+"""Application entry point for the multimodal analysis"""
+from src.ui import demo
+
+if __name__ == "__main__":
+    demo.launch()
